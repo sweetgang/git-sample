@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Serg
 Hello my friends
+=======
+Hello Serg my change
+>>>>>>> Change file
